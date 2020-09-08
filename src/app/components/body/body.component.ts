@@ -5,7 +5,7 @@ import { Component, OnInit } from '@angular/core';
     templateUrl: './body.component.html'
 })
 
-export class BodyComponent {
+export class BodyComponent {//
 
     mostrar=true; //Boton mostrar o ocultar
 

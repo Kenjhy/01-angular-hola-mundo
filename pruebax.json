@@ -1,7 +1,8 @@
 {
   "latestVersion": "1.2.2",
   "latestVersionCode": "10",
-  "url": "https://www.google.com": [
+  "url": "https://www.google.com",
+  "releaseNotes": [
     "- First evolution",
     "- Second evolution",
     "- Bug fixes"
